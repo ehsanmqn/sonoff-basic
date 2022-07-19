@@ -1,5 +1,5 @@
 # Sonoff Basic switch with MQTT and Thingsboard
-Sonoff Mini Switch Arduino source code over MQTT using [ThingsBoard](https://thingsboard.io/) (Has implemented by reverse engineering the switch functionality)
+Sonoff Basic Switch Arduino source code over MQTT using [ThingsBoard](https://thingsboard.io/) (Has implemented by reverse engineering the switch functionality)
 
 ## Contents
 1. Sonoff Basic
@@ -7,7 +7,7 @@ Sonoff Mini Switch Arduino source code over MQTT using [ThingsBoard](https://thi
 3. Requirements
 
 #### Sonoff Basic
-The Sonoff Mini is, as the name implies, a very small device, designed to be hidden where there's only supposed to be cables. Since it's not supposed to be visible, it's also designed to easily attach an external button.
+SONOFF BASICR is a cost effective WiFi wireless smart switch that lets you automate or remotely control lighting and appliances.
 
 ![image](sonoffbasic.jpg)
 
