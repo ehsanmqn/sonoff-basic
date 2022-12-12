@@ -1,6 +1,6 @@
 
 // Device token
-#define TOKEN "at3gTTk9xYpS8Etq"
+#define TOKEN "PLACE_THE_TOKEN_HERE"
 
 // GPIO bindings
 #define GPIO0 0
